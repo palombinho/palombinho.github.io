@@ -1,0 +1,55 @@
+body{
+    background-color:black;
+}
+
+h1{
+    color:white;
+    font-family: 'Brush Script MT', cursive;
+    font-size:100px;
+    text-align: center;
+}
+.logo{
+    border-radius:50%;
+}
+.container{
+    text-align: center;
+}
+
+p{
+    color:white;
+    font-size:30px;
+}
+#response1{
+    text-align: center;
+}
+#response2{
+    text-align: center;
+}
+
+.input-field{
+    font-size:28px;
+}
+
+.btn-toolset {
+    display: inline-block;
+    text-align: center;
+    white-space: nowrap;
+    color: #FFFFFF;
+    text-decoration: none;
+    line-height: 1.2;
+    font-weight: normal;
+    font-family: sans-serif;
+    font-size: 18px;
+    background-color: #000000;
+    border-radius: 30px;
+    padding: 10px 16px;
+    border: 7px solid #FFFFFF;
+    cursor: pointer;
+   }
+   .btn-toolset:hover {
+    background-color: #00FF05;
+    border-color: #FFFFFF;
+   }
+   .btn-toolset > strong {
+    font-size: 24px;
+   }
